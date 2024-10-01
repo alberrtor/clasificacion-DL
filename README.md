@@ -57,3 +57,10 @@ flowers/
     ```
 11. Abrir la aplicación en chrome y cargar una imagen (dentro del directorio del proyecto tenemos la imagen "test_image.jpg") para predecir el tipo de imagen.
     [http://localhost:8501](http://localhost:8501)
+
+
+### Crear la imagen directamente de Docker Hub.
+```sh
+docker run -p 8501:8501 alberrtor/classificacion-dl-image:latest
+```
+
