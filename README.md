@@ -64,6 +64,3 @@ flowers/
 docker run -p 8501:8501 alberrtor/classificacion-dl-image:latest
 ```
 
-### Abrir la applición en un navegador como Chrome y cargar una imagen para predecir el tipo al que pertenece, dentro del proyecto existe la imagen "test_iamge.jpg" que puede servir como prueba.
-
-http://localhost:8501
